@@ -24,9 +24,9 @@
 
  - Снижение затрат: Уменьшение ручного труда сократит операционные издержки.
 
- - [Модель бизнес процесса до внедрения системы](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Диаграмма%20до.drawio)
+ - [Модель бизнес процесса до внедрения системы](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Диаграмма%20до.drawio.png)
 
- - [Модель бизнес процесса после внедрения системы](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Диаграмма%20после.drawio)
+ - [Модель бизнес процесса после внедрения системы](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Диаграмма%20после.drawio.png)
 
 Что будем считать успехом итерации:
 
