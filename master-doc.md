@@ -406,7 +406,7 @@ A/B-тестирование:
 
 #### 4.7. Integration points
 
- - [Архитектура приложения](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Архитектура.png)
+ - [Взаимодействие серсисов](https://github.com/svgarik/Pris10_master_doc/blob/main/graphs/Архитектура.png)
 
 > Клиентские устройства (мобильные приложения, веб-интерфейс):
 > 
